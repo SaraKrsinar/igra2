@@ -1,0 +1,42 @@
+
+  table {
+    margin: 50px auto;
+    background-color: lightpink;
+  }
+  
+  td {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+    background-color: lightgreen;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  #kopce {
+    padding: 10px 20px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: lightpink;
+    font-size: 40px;
+    color: darkgreen;
+    font-weight: bold;
+    display: block;
+    margin: 20px auto;
+  }
+
+body {
+    background-color: rgb(254, 254, 96);
+}
+.title {
+  text-align: center;
+  margin-top: 100px;
+}
+#kopcee {
+  font-size: larger;
+  font-family: fantasy;
+  padding: 5px 10px;
+  background-color: transparent;
+  color: brown;
+}
